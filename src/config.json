@@ -1,0 +1,10 @@
+{
+    "general":{
+        "broker": "test.mosquitto.org",
+		"port": 1883,
+        "clean_session": true,
+        "keep_alive_sec": 15,
+		"topic": "STATE/", 
+		"subscribe_interval": 5
+    }
+}
