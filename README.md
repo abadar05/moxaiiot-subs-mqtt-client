@@ -3,11 +3,18 @@ The MQTT client sample code in this repository can connect and subscribe from pr
 
 All configuration parameters can be defined in config.json file. 
 
-To excute the program run the following command via command line. 
-- python3 main.py
-
 Dependencies:
 - paho-mqtt
 - python3 
+
+# Usage:
+
+Clone repository 
+git clone https://github.com/abadar05/moxaiiot-subs-mqtt-client.git
+
+Change directory to "moxaiiot-subs-mqtt-client/src"
+
+Run the following command to execute python script
+- python3 main.py
 
 
